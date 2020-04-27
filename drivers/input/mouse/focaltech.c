@@ -23,6 +23,7 @@ static const char * const focaltech_pnp_ids[] = {
 	"FLT0101",
 	"FLT0102",
 	"FLT0103",
+	"ETD0108",
 	NULL
 };
 
